@@ -1,0 +1,16 @@
+{
+    "name": "env-monitor",
+    "version": "1.0.0",
+    "description": "Environmental data monitoring backend server",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "socket.io": "^4.0.0"
+    }
+  }
+  
