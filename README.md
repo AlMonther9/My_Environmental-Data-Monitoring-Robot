@@ -1,5 +1,3 @@
-Sure, here is the complete `README.md` file that you can copy:
-
 ```markdown
 # Environmental Data Monitoring System
 
@@ -289,7 +287,7 @@ void clearGPS() {
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/.png)
 ![Sensor Data](screenshots/sensor_data.png)
 
 ## License
