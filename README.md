@@ -1,4 +1,3 @@
-```markdown
 # Environmental Data Monitoring System
 
 This project consists of a backend server to collect environmental data from various sensors and a frontend application to display the data in real-time. The project also includes an ESP32 code to read sensor data and send it to the server.
@@ -287,7 +286,7 @@ void clearGPS() {
 
 ## Screenshots
 
-![Dashboard](Screenshot/.png)
+![Dashboard](Screenshot.png)
 ![Sensor Data](screenshots/sensor_data.png)
 
 ## License
